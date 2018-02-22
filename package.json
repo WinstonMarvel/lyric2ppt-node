@@ -1,0 +1,24 @@
+{
+  "name": "lyrict2ppt-node",
+  "version": "1.0.0",
+  "description": "Node port for lyric2ppt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WinstonMarvel/lyric2ppt-node.git"
+  },
+  "author": "Winston Marvel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WinstonMarvel/lyric2ppt-node/issues"
+  },
+  "homepage": "https://github.com/WinstonMarvel/lyric2ppt-node#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
